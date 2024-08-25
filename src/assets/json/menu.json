@@ -3,11 +3,6 @@
   "data": [
     {
       "icon": "message-box",
-      "title": "DEMO",
-      "path": "/home/demo"
-    },
-    {
-      "icon": "message-box",
       "title": "网站管理",
       "path": "/site",
       "children": [

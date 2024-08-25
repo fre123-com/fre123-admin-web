@@ -23,17 +23,6 @@ const homeRouter: Array<RouteRecordRaw> = [
           key: "home",
         },
       },
-      {
-        path: "/home/demo",
-        name: "demo",
-        component: () => import("@/views/demo/index.vue"),
-        meta: {
-          keepAlive: true,
-          requiresAuth: true,
-          title: "demo",
-          key: "home-demo",
-        },
-      },
     ],
   },
 ];

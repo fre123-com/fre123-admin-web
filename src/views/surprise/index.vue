@@ -147,7 +147,6 @@
 <script setup lang="ts">
 import surpriseApi from "@/api/modules/surprise/index";
 import { ISurpriseListItem } from "@/api/modules/surprise/interface";
-import CommonWrapper from "@/components/commonWrapper.vue";
 import MetaPagination from "@/components/MetaPagination/index.vue";
 import MetaSearchBar from "@/components/MetaSearchBar/index.vue";
 import MetaTable from "@/components/MetaTable/index.vue";
