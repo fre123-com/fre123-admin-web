@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "vue.volar",
+    "lokalise.i18n-ally",
+    "antfu.iconify",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "EditorConfig.EditorConfig",
+    "voorjaar.windicss-intellisense",
+    "csstools.postcss",
+    "bradlc.vscode-tailwindcss",
+    "streetsidesoftware.code-spell-checker",
+    "stylelint.vscode-stylelint",
+    "clinyong.vscode-css-modules",
+    "OBKoro1.korofileheader"
+  ]
+}
